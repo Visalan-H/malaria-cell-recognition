@@ -47,9 +47,6 @@ Use random image selection for inference and display the prediction result.
 ```
 Name: Visalan H 
 Register Number: 212222240117
-```
-
-```python
 # to share the GPU
 import tensorflow as tf
 from tensorflow.compat.v1.keras.backend import set_session
