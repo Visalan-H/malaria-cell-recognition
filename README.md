@@ -5,7 +5,7 @@
 To develop a deep neural network for Malaria infected cell recognition and to analyze the performance.
 
 ## Problem Statement and Dataset
-
+It involves achieving high accuracy in classifying malaria-infected cells versus uninfected cells to aid in the diagnosis of malaria from microscopic images. Your task would be to optimize the model, possibly by tuning hyperparameters, trying different architectures, or using techniques like transfer learning to improve classification accuracy.
 ## Neural Network Model
 
 Include the neural network model diagram.
