@@ -39,9 +39,8 @@ Evaluate the model's performance on the test data and visualize training history
 Generate predictions on the test data and calculate classification metrics.
 ### STEP 15:
 Use random image selection for inference and display the prediction result.
-
 ## PROGRAM
-```
+```python
 Name: Visalan H 
 Register Number: 212222240117
 # to share the GPU
@@ -148,23 +147,13 @@ confusion_matrix(test_image_gen.classes,predictions)
 ```
 
 ## OUTPUT
-
 ### Training Loss, Validation Loss Vs Iteration Plot
-
 ![image](https://github.com/Visalan-H/malaria-cell-recognition/assets/152077751/24bb50da-7112-40c0-b19e-94f162b534f7)
-
 ### Classification Report
-
 ![image](https://github.com/Visalan-H/malaria-cell-recognition/assets/152077751/e05f189c-0b68-471a-92a9-14997349b997)
-
 ### Confusion Matrix
-
 ![image](https://github.com/Visalan-H/malaria-cell-recognition/assets/152077751/c9ccb21c-67d6-4cf8-91e0-07d3191e03e8)
-
 ### New Sample Data Prediction
-
 ![image](https://github.com/Visalan-H/malaria-cell-recognition/assets/152077751/5218367a-3539-40b6-9482-a58ece58b8b4)
-
 ## RESULT
-
 Thus, a deep neural network for Malaria infected cell recognition is developed and the performance is analyzed.
